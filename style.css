@@ -1,0 +1,25 @@
+p{color: red;
+font-weight:bold;
+font-size: 50px;
+
+font-family: 20px;}
+body{color: darkorchid;
+background-color: brown;
+background-image: url(backroos.jpg);}
+
+div{
+    width: 800px;
+    padding: 20px;
+margin: auto;
+background-color: rgb(43, 226, 195);
+}
+.text{
+font-size: 19pt;
+font-weight: normal;
+color: blueviolet;
+}
+.tytul{
+font-size: 50pt;
+font-weight: bold;
+
+}
